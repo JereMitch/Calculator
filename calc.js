@@ -71,6 +71,12 @@ if (mathSymbol === "^3") {
   console.log(Math.pow(num1, 3));
 }
 
+let = num;
+
+if(mathSymbol === "exp"){
+  console.log(math.pow(num1, int));
+}
+
 if (mathSymbol === "%" & num3 === null) {
   console.log(num1 % num2);
 } else if(mathSymbol === "%" & num3 !== null) {
